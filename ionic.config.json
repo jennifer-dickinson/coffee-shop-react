@@ -1,0 +1,7 @@
+{
+  "name": "coffeereact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
